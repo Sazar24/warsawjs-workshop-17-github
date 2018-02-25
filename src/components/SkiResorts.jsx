@@ -7,11 +7,11 @@ class App extends Component {
     this.state = {
       skiResorts: [
         {
-          name: 'Kacze Doły',
+          name: 'Bździszewo',
           height: '152 m',
-          price: '12,99 PLN',
+          price: '121,99 PLN',
           opening_hours: '10:00-20:00',
-          opinion: 'Great place for beginners',
+          opinion: 'Tutaj fiskus Ciebie nie złapie... bo nie ma na mapie... Bździszewa...!',
         }
       ],
     }
