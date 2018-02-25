@@ -7,7 +7,7 @@ class App extends Component {
     this.state = {
       skiResorts: [
         {
-          name: 'Bździszewo',
+          name: 'Bokotrąby - I wanna make conflict',
           height: '152 m',
           price: '121,99 PLN',
           opening_hours: '10:00-20:00',
