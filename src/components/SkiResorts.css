@@ -1,8 +1,8 @@
 .SkiResortsWrapper {
   padding: 10px;
   margin: 20px;
-  border: 1px solid #ccc;
-  border-radius: 20px;
+  border: 4px solid green;
+  border-radius: 40%;
 }
 
 .SkiResortsList {
