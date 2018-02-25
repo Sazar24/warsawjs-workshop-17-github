@@ -7,7 +7,7 @@ class App extends Component {
     this.state = {
       skiResorts: [
         {
-          name: 'Original city',
+          name: 'Nazwa zmieniona na mainie',
           height: '152 m',
           price: '121,99 PLN',
           opening_hours: '10:00-20:00',
